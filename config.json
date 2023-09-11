@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6285756402624@s.whatsapp.net","6285756402624@s.whatsapp.net"],
+    "ownerName": "```Whyuu_19```",
+    "instagram" : "https://instagram.com/muhwahyuasri_19",
+    "gcwa" : "https://chat.whatsapp.com/EwZbOMCVB7YHF5eQoKuMxH",
+    "botName": "```Sagiri_BOT```",
+    "footer": "```Whyuu_19```",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "PHUuHo4b2nErbAZ",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": false,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 200,
+    "gcount": {
+        "prem": 100000,
+        "user": 15
+    }
+}
